@@ -1,0 +1,5 @@
+{
+  "name": "Heal Plate",
+  "description": "An AI-powered advisor that connects diseases, local foods, and sustainable nutrition. Get recommendations based on your condition or by uploading a food image.",
+  "requestFramePermissions": []
+}
